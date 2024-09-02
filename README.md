@@ -15,11 +15,13 @@ e conexões.
 
 Dados Utilizados
 
-Os dados utilizados para testes foram gerados para testes baseados em usuário/conteúdos públicos ou obtidos através da ferramenta eTC (exploring Timeline Communications), 
+Os dados utilizados para testes foram gerados para testes baseados em usuário/conteúdos públicos ou obtidos através da ferramenta eTC (exploring Timeline Communications)*, 
 aplicação que vem sendo desenvolvida por alunos do DI PUC-Rio. A ferramenta utilizava a API CrowdTangle na coleta de conteúdos públicos das redes sociais Facebook e Instagram, 
 durante o período de produção do estudo.
 Desde 14 de agosto de 2024, o CrowdTangle não está mais disponível, e a equipe do eTC vem trabalhando em novas formas de incorporar Facebook e Instagram à ferramenta,
 além de outras redes como Twitter, TikTok e Reddit.
+
+* https://etc.biobd.inf.puc-rio.br/
 
 Proteção de Dados
 
