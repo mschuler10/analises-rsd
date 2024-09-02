@@ -21,7 +21,7 @@ durante o período de produção do estudo.
 Desde 14 de agosto de 2024, o CrowdTangle não está mais disponível, e a equipe do eTC vem trabalhando em novas formas de incorporar Facebook e Instagram à ferramenta,
 além de outras redes como Twitter, TikTok e Reddit.
 
-* https://etc.biobd.inf.puc-rio.br/
+*https://etc.biobd.inf.puc-rio.br/
 
 Proteção de Dados
 
